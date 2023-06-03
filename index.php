@@ -85,7 +85,7 @@ $('.center').slick({
 <body>
     
 
-
+<?php echo "hello world"?>
 <div  class="container-fluid py-5">
               <div class="row">
                 <div class="col-lg-9 ">
